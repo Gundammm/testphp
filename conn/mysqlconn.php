@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "MyDB2";
+$servername = "plearnjai.com";
+$username = "plearnja_cpsu8";
+$password = "08c0LcUa7b";
+$dbname = "plearnja_cpsu8";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
